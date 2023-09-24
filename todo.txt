@@ -1,0 +1,4 @@
+- attendre fin des sous-proc. pour arreter le serveur
+- comptage des requêtes traitées (via signaux ?)
+- temps en milisecondes
+- récupérer ip
